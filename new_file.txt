@@ -1,0 +1,1 @@
+Hola, esto es una prueba de creacion de archivo a traves de la linea de comandos. This is a test. We create a file from the command line. In this case from ubuntu, WSL.
